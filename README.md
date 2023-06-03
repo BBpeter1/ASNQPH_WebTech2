@@ -1,3 +1,8 @@
+# FONTOS
+A kliens, és a szerver oldalt is a gyökérkönyvtárból (webshop-k16)-ból kell indítani!
+Backend: npm run start:server
+Frontend: npm run start:client
+
 # WebshopClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
