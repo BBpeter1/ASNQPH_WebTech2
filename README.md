@@ -1,9 +1,9 @@
 # FONTOS
-A projekt telepítése az npm install paranccsal lehetséges. 
+A projekt telepítése az `npm install` paranccsal lehetséges. 
 
 A kliens, és a szerver oldalt is a gyökérkönyvtárból (webshop-k16)-ból kell indítani!
-Backend: npm run start:server
-Frontend: npm run start:client
+Backend: `npm run start:server`
+Frontend: `npm run start:client`
 
 # WebshopClient
 
